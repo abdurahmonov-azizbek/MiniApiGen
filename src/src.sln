@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApiGen", "MiniApiGen\MiniApiGen.csproj", "{8CA6D36A-0D6C-9A58-E482-D1723ADA6915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA6D36A-0D6C-9A58-E482-D1723ADA6915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA6D36A-0D6C-9A58-E482-D1723ADA6915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA6D36A-0D6C-9A58-E482-D1723ADA6915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA6D36A-0D6C-9A58-E482-D1723ADA6915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA890DA3-80F1-44B7-96A5-C189FE029DC2}
+	EndGlobalSection
+EndGlobal
